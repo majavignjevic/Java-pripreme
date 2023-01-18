@@ -1,0 +1,40 @@
+2
+P1234
+Petar
+Kovačević
+Viši predavač
+P4454
+Ivan
+Babić
+profesor visoke škole
+PR443
+Programiranje u jeziku Java
+6
+1
+2
+PR667
+Web aplikacije u Javi
+7
+2
+2
+Marko
+Curić
+12.12.1999.
+024680654
+Ivana
+Belić
+11.11.1998.
+0036389977
+1
+Velika dvorana
+Velika zgrada
+1
+4
+11.10.2022.T18:00
+2
+Velika dvorana
+Velika zgrada
+2
+5
+12.10.2022.T17:30
+2
