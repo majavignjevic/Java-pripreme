@@ -1,0 +1,15 @@
+1
+PR0001
+Janko
+Petrović
+predavač
+2
+PR0002
+Ivica
+Župan
+profesor visoke škole
+3
+PR0003
+Marko
+Marković
+viši predavač

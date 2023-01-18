@@ -1,0 +1,18 @@
+1
+PR001
+Web apliakcije u Javi
+8
+3
+1 2 3 5
+2
+PR002
+Oblikovni obrasci u programiranju
+5
+2
+1 2 5
+3
+PR003
+Oblikovanje web aplikacija
+6
+1
+2 3 4
